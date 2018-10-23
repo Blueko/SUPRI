@@ -1,0 +1,22 @@
+[general]
+version = 2
+name = Sugus
+definition = fdmprinter
+
+[metadata]
+quality_type = normal
+type = quality_changes
+
+[values]
+infill_overlap = 50
+material_print_temperature = 185
+adhesion_type = skirt
+material_flow = 105
+speed_print = 20
+layer_height = 0.3
+material_diameter = 3
+speed_layer_0 = 20
+infill_sparse_density = 10
+speed_travel = 25
+material_bed_temperature = 70
+
