@@ -2,3 +2,7 @@
 Also known as SUgus PRInter.
 
 All files used for the 3D printer, including legacy configuration files for the old 3D printer firmware and the version of Marlin used, with the new modified configuration.
+
+Host software used in tests: Ultimaker Cura
+Base printer: BQ Prusa i3 Hephestos
+sugus.curaprofile: it is a custom profile previously made for SUPRI, used as base for testing.
