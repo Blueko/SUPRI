@@ -3,6 +3,18 @@ Also known as SUgus PRInter.
 
 All files used for the 3D printer, including legacy configuration files for the old 3D printer firmware and the version of Marlin used, with the new modified configuration.
 
-Host software used in tests: Ultimaker Cura
-Base printer: BQ Prusa i3 Hephestos
-sugus.curaprofile: it is a custom profile previously made for SUPRI, used as base for testing.
+## General info:
+* Host software used in tests: Ultimaker Cura
+* Base printer: BQ Prusa i3 Hephestos
+* Filament: PLA
+* supri_fix_speed.curaprofile: new profile with improved speed in order to reduce blobing
+
+## Configuration used:
+* Filament diameter: 3.0 mm
+* Retraction distance: 1.0 mm 
+* Retraction Speed: 40 mm/s
+* Print/Travel/Initial_Layer Speed: 40/45/30 mm/s
+* Layer Height: 0.3 mm
+
+## Legacy Configuration:
+* sugus.curaprofile: it is a custom profile previously made for SUPRI, used as base for testing
