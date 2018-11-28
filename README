@@ -1,7 +1,7 @@
 # SUPRI
 Also known as SUgus PRInter.
 
-All files used for the 3D printer, including legacy configuration files for the old 3D printer firmware and the version of Marlin used, with the new modified configuration.
+All files used for the 3D printer, including legacy configuration files for the old 3D printer firmware and the configuration used in Marlin.
 
 ## General info:
 * Host software used in tests: Ultimaker Cura
