@@ -1,7 +1,10 @@
 #Folders
 Modelos/
-Marlin/
+/Marlin/*
+/Marlin/Marlin/*
+.directory
 
 #Exceptions
-!Marlin/Marlin/Configuration*
-!Marlin/Marlin/_Bootscreen.h
+!/Marlin/Marlin
+!/Marlin/Marlin/Configuration*
+!/Marlin/Marlin/_Bootscreen.h
