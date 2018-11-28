@@ -1,4 +1,7 @@
 #Folders
 Modelos/
+Marlin/
 
 #Exceptions
+!Marlin/Marlin/Configuration*
+!Marlin/Marlin/_Bootscreen.h
