@@ -9,8 +9,15 @@ All files used for the 3D printer, including legacy configuration files for the 
 * Filament: PLA
 * supri_fix_speed.curaprofile: new profile with improved speed in order to reduce blobing
 
-## Configuration used:
+## Configuration 1:
 * Filament diameter: 3.0 mm
+* Retraction distance: 1.0 mm 
+* Retraction Speed: 40 mm/s
+* Print/Travel/Initial_Layer Speed: 40/45/30 mm/s
+* Layer Height: 0.3 mm
+
+## Configuration 2 (sugus_2.8):
+* Filament diameter: 2.8 mm
 * Retraction distance: 1.0 mm 
 * Retraction Speed: 40 mm/s
 * Print/Travel/Initial_Layer Speed: 40/45/30 mm/s
